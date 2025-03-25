@@ -1,5 +1,5 @@
 *.xlsx
 lab_versao_teste.ipynb
 data/*
-
+ambienteVirtual/*
 !data/queries_fixadas.txt
